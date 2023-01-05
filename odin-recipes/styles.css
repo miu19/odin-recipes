@@ -1,0 +1,23 @@
+.title{color: rgb(96, 4, 96);
+       text-align: center;
+       font-size: 50px;
+       font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;}
+
+
+#page{background-color: rgb(255, 226, 255);}
+
+.links{text-align: center;
+      list-style-position: inside;
+      font-size: 20px;
+      margin: 15px;}
+
+
+.pagina{background-color: rgb(213, 209, 255);
+        text-align: center;
+        font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;}
+
+.titlu1{color: rgb(12, 1, 132);
+        font-size: 40px;}
+
+.ingrediente{list-style-position: inside;}
+.pasi{list-style-position: inside;}
